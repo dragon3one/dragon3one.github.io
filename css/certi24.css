@@ -193,7 +193,7 @@
   증명 포탈 기본
 ****************************/
 .c_border {
-	position: absolute;
+	position: relative;
 	width: 720px;
     height: auto;
     min-height: 895px;
